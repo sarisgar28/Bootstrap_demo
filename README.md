@@ -1,5 +1,6 @@
-# Boostrap Demo
+# # Boostrap Demo
 
  This project is for learning purposes. 
- Topics: 
+ 
+ Topics:
  Employee Dashboard built with HTML5, Bootstrap and CSS.
