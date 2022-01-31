@@ -1,4 +1,4 @@
-# # Boostrap Demo
+# # Bootstrap Demo
 
  This project is for learning purposes. 
  
